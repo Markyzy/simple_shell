@@ -1,1 +1,3 @@
-# simple_shell
+# Elizabeth and Mariam's simple_shell
+---
+
